@@ -1,3 +1,0 @@
-# Work tasks
-
-* TODO Teste
