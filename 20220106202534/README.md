@@ -1,4 +1,4 @@
-# general todos @todos
+# general to-dos @todos
 
 - [ ] Create vim commands to generators and common commands of phoenix
 - [ ] Design an diagram to architect omnichannel cherrywiki project.
