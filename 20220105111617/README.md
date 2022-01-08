@@ -2,7 +2,7 @@
 
 ## The problem
 1. The problem we have today is that we can't show activity price and activity name data on professional card component
-2. Another problem we have is to show professional description from tuotempo api
+2. Another problem we have is to show professional description from tuotempo API
 
 ## The solution
 1. Here we'll return a top level object with professional data and an array for availabilities, this was the first design but we tried to be simpler and don't work, this solution will solve on our current frontend architecture
