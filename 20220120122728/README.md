@@ -1,6 +1,6 @@
 # how to replace a string on whole git project
 
-Disclaimer: If you're not using git for your project, bro wtf????
+Disclaimer: If you're not using git for your project, bro wtf?????
 
 
 On Linux:
