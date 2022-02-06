@@ -3,6 +3,7 @@
 Here, in expression, we write parameter and file name. Let us see some parameters that can be used in
 the expression: –
 
+- `-n`: It returns True if string is NOT empty
 - `–f`: It returns True if the file exists as a common ( regular ) file.
 - `-d`: it returns True if directory exists.
 * `-e`: It returns True if any type of file exists.

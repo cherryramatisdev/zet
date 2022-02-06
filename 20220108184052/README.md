@@ -1,23 +1,21 @@
-# vim function to manage scratch buffers
+# script to manage scratch buffers
 
-The idea for this is to press a binding and create a scratch buffer with vim file type by default on that scratch buffer I can press one binding to just close it and keeping the content alive, or another binding to erase the buffer and delete it permanently
+The idea is to create a bash script that creates a scratch buffers with
+particular extension file type on the `/tmp` folder, with that we can
+just open on every place
 
-This is a great opportunity to learn the buffer creation API for vimscript and manage bindings inside those scratch buffers.
+Will be pretty simple actually, I'll just create the file and return the
+path so I can pipe it to vim or just get the content on command line.
 
-**Reference:** <https://github.com/vim-scripts/scratch.vim/tree/master/plugin>
+```sh
+#!/bin/bash
 
-The base is to check if buffer already exists on the first place so we
-can create a new one or just open the created one.
+path="/tmp/scratch.$1"
 
-```vim
-let l:buffer_name = '[Scratch]'
-let l:buffer_number = bufnr(l:buffer_name)
-
-if l:buffer_number == -1
-	echo "buffer nao existe"
+if [ -z $path ]; then
+	touch $path
+	echo $path
 else
-	echo "buffer existe"
-
-	exe "split +buffer" . l:buffer_number
-endif
+	echo $path
+fi
 ```

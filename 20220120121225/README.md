@@ -4,7 +4,7 @@ First, this method to merge two lists is expecting you have an array of
 objects like this
 
 ```javascript
-const arr1 =[
+const arr1 = [
   {id:1,name:"sai"},
   {id:2,name: "King"}
 ];
