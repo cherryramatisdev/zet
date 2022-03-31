@@ -1,0 +1,11 @@
+# search who wrote the GTD book
+
+## Wikipedia
+
+**Getting Things Done** (**GTD**) is a personal productivity system developed by [David Allen](<https://en.wikipedia.org/wiki/David_Allen_(author)>) and published in a book of the same name.[[1]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-Allen2015-1) GTD is described as a time management system.[[2]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-The_New_Yorker-2) Allen states "there is an inverse relationship between things on your mind and those things getting done".[[3]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-gtd-3)[[a]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-thingsOnYourMind-5)
+The GTD method rests on the idea of moving all items of interest, relevant information, issues, tasks and projects out of one's [mind](https://en.wikipedia.org/wiki/Mind) by recording them externally and then breaking them into actionable work items with *known time limits*.[[b]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-doIt-6)[[c]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-stuff-7) This allows one's attention to focus on taking action on each [task listed](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#oval4) in an external record, instead of [recalling](https://en.wikipedia.org/wiki/Recollection) them intuitively.[[5]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-Atlantic-8)
+
+First published in 2001,[[4]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-Allen2001-4) a revised edition of the book was released in 2015 to reflect the changes in information technology during the preceding decade.[[1]](https://en.wikipedia.org/wiki/Getting_Things_Done?msclkid=6c895554aef711ec85c5f15ae21ebc46#cite_note-Allen2015-1)
+
+[](https://www.goodreads.com/author/quotes/1058.David_Allen?msclkid=6c8a1339aef711ecbf803922b7e17dea)
+[](https://blog.trello.com/br/metodo-gtd?msclkid=c321e946aef811ec8ab5eecf52861963)
